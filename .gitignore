@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exe
+*.dll
+*.lib
+
+# Logs
+*.log
+
+数据分析/
+*.docx
+*.pdf
